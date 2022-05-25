@@ -34,7 +34,7 @@ I've been learning to become a full stack developer
 
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-##### For front-end/web stuff
+##### For front-end/web dev
 
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
